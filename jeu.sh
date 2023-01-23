@@ -14,5 +14,5 @@ break
 fi
 score=$(($score + $de1 + $de2))
 done
-echo Votre score est de $score
+echo Votre scoress est de $score
 
